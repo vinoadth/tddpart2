@@ -5,3 +5,4 @@
 * Run multiple tests
 * Report collected results
         DONE => Log string in WasRun
+* Report failed tests
